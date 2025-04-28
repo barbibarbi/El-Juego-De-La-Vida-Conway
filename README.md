@@ -1,8 +1,8 @@
-# :video_game: El juego de la vida de Conway :video_game:
+# :video_game: El juego de la vida de Conway :video_game: 
 
 👋 Bienvenido al repositorio. 
 
-🍄 La intensión de este repositorio es subir mi desarrollo de este juego en distintos lenguajes empezando por **C**.
+🍄 La intención de este repositorio es subir mi desarrollo de este juego en distintos lenguajes, empezando por **C**.
 
 ## 💻 C 💻
 
@@ -10,10 +10,10 @@
 
 📚 En el primer cuatrimestre 2025 de la universidad hemos desarrollado el juego en **Lenguaje C** utilizando la **libreria SDL2**.
 
-Este se encontrara en la carpeta con el nombre **C** junto con un PDF que tendrá la explicación de como se desarrollo.
+Este se encontrará en la carpeta con el nombre **C** junto con un PDF que tendrá la explicación de como se desarrollo.
 
 ## 💪 Proximos lenguajes a desarrollar 💪
 
-![JAVA](https://img.shields.io/badge/JAVA-red?style=for-the-badge)
+* **![JAVA](https://img.shields.io/badge/JAVA-red?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
+* **![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
