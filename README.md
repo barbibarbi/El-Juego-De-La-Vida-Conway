@@ -14,6 +14,6 @@ Este se encontrará en la carpeta con el nombre **C** junto con un PDF que tendr
 
 ## 💪 Proximos lenguajes a desarrollar 💪
 
-* **![JAVA](https://img.shields.io/badge/JAVA-red?style=for-the-badge)
+* ![JAVA](https://img.shields.io/badge/JAVA-red?style=for-the-badge)
 
-* **![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
+* ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
