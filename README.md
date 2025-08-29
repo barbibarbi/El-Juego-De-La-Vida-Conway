@@ -10,8 +10,8 @@ Todas las células se actualizan simultáneamente en cada turno o generación, s
 
 Nace: Si una célula muerta tiene exactamente 3 células vecinas vivas "nace" (es decir, al turno siguiente estará viva).
 Muere: una célula viva puede morir por uno de 2 casos:
--Sobrepoblación: si tiene más de tres vecinos alrededor.
--Aislamiento: si tiene solo un vecino alrededor o ninguno.
+_Sobrepoblación: si tiene más de tres vecinos alrededor.
+_Aislamiento: si tiene solo un vecino alrededor o ninguno.
 Vive: una célula se mantiene viva si tiene 2 o 3 vecinos a su alrededor.
 
 
