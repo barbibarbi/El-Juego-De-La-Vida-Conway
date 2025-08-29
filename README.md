@@ -14,3 +14,5 @@ Todas las células se actualizan simultáneamente en cada turno o generación, s
 >[!NOTE]
 >Este fue un proyecto grupal para el primer cuatrimestre 2025 de la universidad en la materia Tópicos de programación.
 
+[Enunciado del Trabajo Práctico](EnunciadoJuegoDeLaVidaDeConway.pdf)
+
